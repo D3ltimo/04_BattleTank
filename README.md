@@ -3,3 +3,4 @@ An open-world head to head fight with simple AI, terrain and advanced control sy
 
 ## Commit List
 * BT_01 Intro
+* BT_02 Second Commit
